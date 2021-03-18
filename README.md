@@ -1,16 +1,20 @@
-### Hi there 👋
+# 🌎 Hello world!
 
-<!--
-**andrezzasouza/andrezzasouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Andrezza
 
-Here are some ideas to get you started:
+I graduated in International Relations mostly because of my love of foreign languages and my desire to troubleshoot conflicts to make the world a better place. Now I'm learning new kinds of languages – programming languages. Soon I hope to be troubleshooting other types of conflicts – version conflicts – here on GitHub as well. Wish me luck!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 📚 Currently learning 
+
+* HTML
+* CSS
+* Bootstrap
+* Javascript
+
+
+
+## 💻 Currently working on
+
+At the moment I'm concentrating on practicing HTML and CSS by cloning existing websites and creating new ones. 
