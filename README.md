@@ -23,7 +23,7 @@ I graduated in International Relations mostly because of my love of foreign lang
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
-  <img align="center" alt="Express.js" height="40" width="40"     src="https://driveneducation.zendesk.com/hc/article_attachments/4408960928653/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f657870726573732e737667.svg">
+  <img align="center" alt="Express.js" height="60" width="60"     src="https://driveneducation.zendesk.com/hc/article_attachments/4408960928653/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f657870726573732e737667.svg">
   <br />
   <br />
 </div>
