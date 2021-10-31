@@ -11,6 +11,7 @@ I graduated in International Relations mostly because of my love of foreign lang
   <p>You can find me here:</p>
   <a href="https://www.linkedin.com/in/souza-andrezza/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:andrezzasouza@id.uff.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/17289778/andrezza-souza"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
 </div>
 <br />
 
