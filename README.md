@@ -61,8 +61,10 @@ Coding to me feels like having play-doh in my hands that I can mold however I wa
 At the moment, I'm concentrating on studying to learn new technologies and practicing what I've already learned. I either clone existing web applications or create new ones based on them. To know more, you can <a href="#talk">talk to me</a> or <a href="https://github.com/andrezzasouza?tab=repositories">take a look at my repositories<a>!
 
 <div>
-  <a href="https://github.com/andrezzasouza">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrezzasouza&layout=compact&langs_count=7&theme=panda" align="center" />
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=andrezzasouza&layout=compact&theme=panda&langs_count=6" align="center" />
+  <a href="https://github.com/andrezzasouza?tab=repositories" style="text-decoration: none;">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrezzasouza&langs_count=3&theme=panda" align="center" />
+  </a>
+  <a href="https://github.com/andrezzasouza?tab=repositories" style="text-decoration: none;">
+    <img height= "200" src="https://github-readme-stats.vercel.app/api/wakatime?username=andrezzasouza&theme=panda&langs_count=5" align="center" />
   </a>
 </div>
