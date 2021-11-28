@@ -62,7 +62,7 @@ At the moment, I'm concentrating on studying to learn new technologies and pract
 
 <div>
   <a href="https://github.com/andrezzasouza">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrezzasouza&layout=compact&langs_count=7&theme=panda"/ align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=andrezzasouza" alt="andrezzasouza's wakatime stats" data-canonical-src="https://github-readme-stats.vercel.app/api/wakatime?username=andrezzasouza&layout=compact&theme=panda" align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrezzasouza&layout=compact&langs_count=7&theme=panda" align="center" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=andrezzasouza&layout=compact&theme=panda&langs_count=6 alt="andrezzasouza's wakatime stats" data-canonical-src="https://github-readme-stats.vercel.app/api/wakatime?username=andrezzasouza&layout=compact&theme=panda&langs_count=6" align="center" />
   </a>
 </div>
