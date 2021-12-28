@@ -35,7 +35,7 @@ Coding to me feels like having play-doh in my hands that I can mold however I wa
   <img align="center" title="Javascript" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" title="React" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" title="Node.js" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" title="Cypress" alt="Cypress" height="35" width="35" src="https://s4.aconvert.com/convert/p3r68-cdx67/amwl3-ymrzi.svg">
+  <img align="center" title="Cypress" alt="Cypress" height="35" width="35" src="https://52299755-2fc3-452e-be1b-69e32c51ab1b.id.repl.co/cypress.svg">
   <img align="center" title="Heroku" alt="Heroku" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
   <br />
   <br />
@@ -66,7 +66,7 @@ At the moment, I'm concentrating on studying to learn new technologies and pract
   <a href="https://github.com/andrezzasouza?tab=repositories" style="text-decoration: none;">
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrezzasouza&langs_count=3&theme=panda" align="center" />
   </a>
-  <a href="https://github.com/andrezzasouza?tab=repositories" style="text-decoration: none;">
+  <a href="https://wakatime.com/@andrezzasouza" style="text-decoration: none;">
     <img height= "200" src="https://github-readme-stats.vercel.app/api/wakatime?username=andrezzasouza&theme=panda&langs_count=5" align="center" />
   </a>
 </div>
