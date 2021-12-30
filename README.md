@@ -67,6 +67,6 @@ At the moment, I'm concentrating on studying to learn new technologies and pract
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrezzasouza&langs_count=3&theme=panda" align="center" />
   </a>
   <a href="https://wakatime.com/@andrezzasouza" style="text-decoration: none;">
-    <img height= "200" src="https://github-readme-stats.vercel.app/api/wakatime?username=andrezzasouza&theme=panda&langs_count=5" align="center" />
+    <img height= "200" src="https://github-readme-stats-andrezzasouza.vercel.app/api/wakatime?username=andrezzasouza&theme=panda&langs_count=5" align="center" />
   </a>
 </div>
