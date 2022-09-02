@@ -1,4 +1,4 @@
-<img src='./assets/profile3.gif' align="right" style="max-width=500px;max-height=350px;" />
+<img src='./assets/profile.gif' align="right" style="max-width=500px;max-height=350px;" />
 
 <h1> 🌎 Hello world!</h1>
 
@@ -11,7 +11,8 @@ Coding to me feels like having play-doh in my hands that I can mold however I wa
 Currently, I work as a tutor and help students become full stack developers as well.
 <br />
 
-### Fun facts
+
+<h3>Fun facts</h3>
 - I speak 3 human languages and 1 programming language. Languages help me connect with new people (and machines). They also allow me to learn new things, and see the world and other cultures through brand new eyes.
 - I first meddled with code when I was 11 and wanted to improve the template of my blog.
 - I'm a cat person and I'll always smile if your cat appears in a Zoom meeting!
@@ -33,9 +34,9 @@ Currently, I work as a tutor and help students become full stack developers as w
   <br />
 </div>
 
-## 🧠 What I use
+<h2>🧠 What I use</h2>
+<br />
 <div>
-  <br />
   <img align="center" title="VS Code" alt="VS Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" title="Bash" alt="Bash" height="33" width="40" src="https://gist.githubusercontent.com/andrezzasouza/2447a4948e1312ef1ad859d96eceddd6/raw/6a441c37cd243bdefcf99651b7d57f21dbf58c1d/bash.svg" />
   <img align="center" title="HTML" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
@@ -46,6 +47,7 @@ Currently, I work as a tutor and help students become full stack developers as w
   <img align="center" title="Git" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp;
   <img align="center" title="npm" alt="npm" height="30" width="30" src="https://52299755-2fc3-452e-be1b-69e32c51ab1b.id.repl.co/npm.png" />&nbsp;
   <img align="center" title="React" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" title="Styled Components" alt="Styled Components" height="30" width="30" src="https://i.imgur.com/jEfh3Bs.png" />
   <img align="center" title="Node.js" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />&nbsp;
   <img align="center" title="Express.js" alt="Express.js" height="40" src="https://52299755-2fc3-452e-be1b-69e32c51ab1b.id.repl.co/express.png" />&nbsp;
   <img align="center" title="PostgreSQL" alt="PostgreSQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />&nbsp;
@@ -56,20 +58,22 @@ Currently, I work as a tutor and help students become full stack developers as w
   <br />
 </div>
 
-## 📚 What I'm learning
-<div style="display: flex; gap: 30px;">
-  <br />
-  <img align="center" title="Bootstrap" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
+<h2>📚 What I'm learning</h2>
+<br />
+<div style="display: flex; gap: 30px; align-items:center">
+  <img align="center" title="Bootstrap" alt="Bootstrap" height="37px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" title="Figma" alt="Figma" height="28" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" title="Sass" alt="Sass" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center" title="Electron" alt="Electron" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
-  <img align="center" title="MongoDB" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  <img align="center" title="MongoDB" alt="MongoDB" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  <img align="center" title="Docker" alt="Docker" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img align="center" title="Material UI" alt="Material UI" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
   <br />
   <br />
 </div>
 
 
-## 💻 Currently working on
+<h2>💻 Currently working on</h2>
 
 At the moment, I'm concentrating on deepening and expanding my knowledge of technologies related to programming. To know more, you can <a href="#talk">talk to me</a> or <a href="https://github.com/andrezzasouza?tab=repositories">take a look at my repositories</a>!
 
