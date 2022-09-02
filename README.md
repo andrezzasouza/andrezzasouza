@@ -1,4 +1,4 @@
-<img src='./assets/profile.gif' align="right" style="max-width=500px;max-height=350px;" />
+<img src='./assets/profile.gif' align="right" style="width=85%!important;" />
 
 <h1> 🌎 Hello world!</h1>
 
@@ -13,9 +13,11 @@ Currently, I work as a tutor and help students become full stack developers as w
 
 
 <h3>Fun facts</h3>
-- I speak 3 human languages and 1 programming language. Languages help me connect with new people (and machines). They also allow me to learn new things, and see the world and other cultures through brand new eyes.
-- I first meddled with code when I was 11 and wanted to improve the template of my blog.
-- I'm a cat person and I'll always smile if your cat appears in a Zoom meeting!
+<ul>
+  <li>I speak 3 human languages and 1 programming language. Languages help me connect with new people (and machines). They also allow me to learn new things, and see the world and other cultures through brand new eyes.</li>
+  <li>I first meddled with code when I was 11 and wanted to improve the template of my blog.</li>
+  <li>I'm a cat person and I'll always smile if your cat appears in a Zoom meeting!</li>
+</ul>
 <br />
 
 <h2 id="talk"> 💬 Talk to me</h2>
@@ -37,7 +39,7 @@ Currently, I work as a tutor and help students become full stack developers as w
 <h2>🧠 What I use</h2>
 <br />
 <div>
-  <img align="center" title="VS Code" alt="VS Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="center" title="VS Code" alt="VS Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />&nbsp;
   <img align="center" title="Bash" alt="Bash" height="33" width="40" src="https://gist.githubusercontent.com/andrezzasouza/2447a4948e1312ef1ad859d96eceddd6/raw/6a441c37cd243bdefcf99651b7d57f21dbf58c1d/bash.svg" />
   <img align="center" title="HTML" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img align="center" title="CSS" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
@@ -49,7 +51,7 @@ Currently, I work as a tutor and help students become full stack developers as w
   <img align="center" title="React" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" title="Styled Components" alt="Styled Components" height="30" width="30" src="https://i.imgur.com/jEfh3Bs.png" />
   <img align="center" title="Node.js" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />&nbsp;
-  <img align="center" title="Express.js" alt="Express.js" height="40" src="https://52299755-2fc3-452e-be1b-69e32c51ab1b.id.repl.co/express.png" />&nbsp;
+  <img align="center" title="Express.js" alt="Express.js" height="40" src="https://52299755-2fc3-452e-be1b-69e32c51ab1b.id.repl.co/express.png" />&nbsp;&nbsp;
   <img align="center" title="PostgreSQL" alt="PostgreSQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />&nbsp;
   <img align="center" title="Cypress" alt="Cypress" height="35" width="35" src="https://52299755-2fc3-452e-be1b-69e32c51ab1b.id.repl.co/cypress.svg" />&nbsp;
   <img align="center" title="Jest" alt="Jest" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />&nbsp;
@@ -66,7 +68,7 @@ Currently, I work as a tutor and help students become full stack developers as w
   <img align="center" title="Sass" alt="Sass" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center" title="Electron" alt="Electron" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
   <img align="center" title="MongoDB" alt="MongoDB" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img align="center" title="Docker" alt="Docker" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img align="center" title="Docker" alt="Docker" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />&nbsp;&nbsp;
   <img align="center" title="Material UI" alt="Material UI" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
   <br />
   <br />
