@@ -69,7 +69,10 @@ Currently, I work as a tutor and help students become full stack developers as w
   <img align="center" title="Electron" alt="Electron" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
   <img align="center" title="MongoDB" alt="MongoDB" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img align="center" title="Docker" alt="Docker" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />&nbsp;&nbsp;
-  <img align="center" title="Material UI" alt="Material UI" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
+  <img align="center" title="Material UI" alt="Material UI" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />&nbsp;&nbsp;
+  <img align="center" title="AWS" alt="AWS" height="35" src="https://i.imgur.com/yBsYobh.png" />&nbsp;&nbsp;
+  <img align="center" title="Redis" alt="Redis" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
+
   <br />
   <br />
 </div>
