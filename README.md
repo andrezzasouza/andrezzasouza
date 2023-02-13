@@ -1,4 +1,8 @@
-<img src='./assets/profile.gif' align="right" style="width=85%!important;" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile_dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile_light.gif">
+  <img src="./assets/profile_dark.gif" alt="Smiling black girl with pink hair and a lylac blouse using a pink laptop. There is an orange cat sleeping to her left and a steaming green mug to her right. Above her there is a shelf with books and a box, a clock and a speech baloon." align="right" />
+</picture>
 
 <h1> 🌎 Hello world!</h1>
 
@@ -48,6 +52,7 @@ Currently, I work as a tutor and help students become full stack developers as w
   <img align="center" title="GitHub" alt="GitHub" height="32" width="40" src="https://gist.githubusercontent.com/andrezzasouza/a5a0d2445c4c5015ffbb0704f87a7c34/raw/8153b4f391c3513f6bca21727980d3a1f5a197f0/github-grey.svg" />
   <img align="center" title="Git" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp;
   <img align="center" title="npm" alt="npm" height="30" width="30" src="https://52299755-2fc3-452e-be1b-69e32c51ab1b.id.repl.co/npm.png" />&nbsp;
+  <img align="center" title="Figma" alt="Figma" height="28" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" title="React" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" title="Styled Components" alt="Styled Components" height="30" width="30" src="https://i.imgur.com/jEfh3Bs.png" />&nbsp;
   <img align="center" title="TailwindCSS" alt="TailwindCSS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
@@ -56,23 +61,31 @@ Currently, I work as a tutor and help students become full stack developers as w
   <img align="center" title="PostgreSQL" alt="PostgreSQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />&nbsp;
   <img align="center" title="Cypress" alt="Cypress" height="35" width="35" src="https://52299755-2fc3-452e-be1b-69e32c51ab1b.id.repl.co/cypress.svg" />&nbsp;
   <img align="center" title="Jest" alt="Jest" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />&nbsp;
-  <img align="center" title="Heroku" alt="Heroku" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
+
   <br />
   <br />
 </div>
 
 <h2>📚 What I'm learning</h2>
 <br />
+  <img align="center" title="MongoDB" alt="MongoDB" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />&nbsp;
+  <img align="center" title="Prisma" alt="Prisma" height="32" src="https://www.svgrepo.com/show/374002/prisma.svg" />&nbsp;&nbsp;
+  <img align="center" title="Docker" alt="Docker" height="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />&nbsp;&nbsp;
+  <img align="center" title="AWS" alt="AWS" height="35" src="https://i.imgur.com/yBsYobh.png" />&nbsp;&nbsp;
+  <img align="center" title="Redis" alt="Redis" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />&nbsp;&nbsp;
+  <img align="center" title="NGINX" alt="NGINX" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
+
+  <br />
+  <br />
+</div>
+
+<h2>👀 Next technologies</h2>
+<br />
 <div style="display: flex; gap: 30px; align-items:center">
   <img align="center" title="Bootstrap" alt="Bootstrap" height="37px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" title="Figma" alt="Figma" height="28" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" title="Sass" alt="Sass" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center" title="Electron" alt="Electron" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
-  <img align="center" title="MongoDB" alt="MongoDB" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img align="center" title="Docker" alt="Docker" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />&nbsp;&nbsp;
   <img align="center" title="Material UI" alt="Material UI" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />&nbsp;&nbsp;
-  <img align="center" title="AWS" alt="AWS" height="35" src="https://i.imgur.com/yBsYobh.png" />&nbsp;&nbsp;
-  <img align="center" title="Redis" alt="Redis" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
 
   <br />
   <br />
