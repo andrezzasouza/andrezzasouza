@@ -60,7 +60,7 @@ Currently, I work as a tutor and help students become full stack developers as w
   <img align="center" title="Express.js" alt="Express.js" height="40" src="https://52299755-2fc3-452e-be1b-69e32c51ab1b.id.repl.co/express.png" />&nbsp;&nbsp;
   <img align="center" title="PostgreSQL" alt="PostgreSQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />&nbsp;
   <img align="center" title="Cypress" alt="Cypress" height="35" width="35" src="https://52299755-2fc3-452e-be1b-69e32c51ab1b.id.repl.co/cypress.svg" />&nbsp;
-  <img align="center" title="Jest" alt="Jest" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />&nbsp;
+  <img align="center" title="Jest" alt="Jest" height="37" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />&nbsp;
 
   <br />
   <br />
@@ -91,7 +91,7 @@ Currently, I work as a tutor and help students become full stack developers as w
   <br />
   <br />
 </div>
-
+<br />
 
 <h2>💻 Currently working on</h2>
 
@@ -99,9 +99,9 @@ At the moment, I'm concentrating on deepening and expanding my knowledge of tech
 
 <div>
   <a href="https://github.com/andrezzasouza?tab=repositories" style="text-decoration: none;">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrezzasouza&langs_count=3&theme=panda" align="center" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=andrezzasouza&theme=panda&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true" align="center" />
   </a>
   <a href="https://wakatime.com/@andrezzasouza" style="text-decoration: none;">
-    <img height= "200" src="https://github-readme-stats-andrezzasouza.vercel.app/api/wakatime?username=andrezzasouza&theme=panda&langs_count=5" align="center" />
+    <img height="200" src="https://github-readme-stats-andrezzasouza.vercel.app/api/wakatime?username=andrezzasouza&theme=panda&langs_count=5" align="center" />
   </a>
 </div>
