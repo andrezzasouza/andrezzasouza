@@ -69,8 +69,10 @@ Currently, I work as a tutor and help students become full stack developers as w
 <h2>📚 What I'm learning</h2>
 <br />
 <div>
+  <img align="center" title="Webflow" alt="Webflow" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" />&nbsp;
   <img align="center" title="MongoDB" alt="MongoDB" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />&nbsp;
   <img align="center" title="Prisma" alt="Prisma" height="32" src="https://www.svgrepo.com/show/374002/prisma.svg" />&nbsp;&nbsp;
+  <img align="center" title="Java" alt="Java" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />&nbsp;&nbsp;
   <img align="center" title="Docker" alt="Docker" height="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />&nbsp;&nbsp;
   <img align="center" title="AWS" alt="AWS" height="35" src="https://i.imgur.com/yBsYobh.png" />&nbsp;&nbsp;
   <img align="center" title="Redis" alt="Redis" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />&nbsp;&nbsp;&nbsp;
