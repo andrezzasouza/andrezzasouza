@@ -78,8 +78,8 @@ Currently, I work as a tutor and help students become full stack developers as w
   <img align="center" title="AWS" alt="AWS" height="35" src="https://i.imgur.com/yBsYobh.png" />&nbsp;&nbsp;
   <img align="center" title="Redis" alt="Redis" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />&nbsp;&nbsp;&nbsp;
   <img align="center" title="NGINX" alt="NGINX" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />&nbsp;&nbsp;&nbsp;
-  <img align="center" title="Material UI" alt="Material UI" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
-  <img align="center" title="Next.js" alt="Next.js" height="30" src="https://miro.medium.com/v2/resize:fit:576/1*yqQpg5pkNNY2NCdcmqVstw.png" />&nbsp;
+  <img align="center" title="Material UI" alt="Material UI" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />&nbsp;&nbsp;&nbsp;
+  <img align="center" title="Next.js" alt="Next.js" height="30" src="https://i.imgur.com/KjkuHJF.png" />
   
   <br />
   <br />
