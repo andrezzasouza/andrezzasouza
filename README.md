@@ -49,18 +49,18 @@ Currently, I work as a tutor and help students become full stack developers as w
   <img align="center" title="CSS" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
   <img align="center" title="Javascript" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img align="center" title="Typescript" alt="Typescript" height="30" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" title="Java" alt="Java" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />&nbsp;&nbsp;
+  
   <img align="center" title="GitHub" alt="GitHub" height="32" width="40" src="https://gist.githubusercontent.com/andrezzasouza/a5a0d2445c4c5015ffbb0704f87a7c34/raw/8153b4f391c3513f6bca21727980d3a1f5a197f0/github-grey.svg" />
   <img align="center" title="Git" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp;
   <img align="center" title="npm" alt="npm" height="30" width="30" src="https://52299755-2fc3-452e-be1b-69e32c51ab1b.id.repl.co/npm.png" />&nbsp;
   <img align="center" title="Figma" alt="Figma" height="28" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" title="React" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-   <img align="center" title="Spring" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />&nbsp;
   <img align="center" title="Styled Components" alt="Styled Components" height="30" width="30" src="https://i.imgur.com/jEfh3Bs.png" />&nbsp;
   <img align="center" title="TailwindCSS" alt="TailwindCSS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   <img align="center" title="Node.js" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />&nbsp;
   <img align="center" title="Express.js" alt="Express.js" height="40" src="https://52299755-2fc3-452e-be1b-69e32c51ab1b.id.repl.co/express.png" />&nbsp;&nbsp;
-  <img align="center" title="PostgreSQL" alt="PostgreSQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />&nbsp;
+  <img align="center" title="PostgreSQL" alt="PostgreSQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
+   <img align="center" title="MongoDB" alt="MongoDB" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img align="center" title="Cypress" alt="Cypress" height="35" width="35" src="https://52299755-2fc3-452e-be1b-69e32c51ab1b.id.repl.co/cypress.svg" />&nbsp;
   <img align="center" title="Jest" alt="Jest" height="37" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />&nbsp;
 
@@ -72,14 +72,16 @@ Currently, I work as a tutor and help students become full stack developers as w
 <br />
 <div>
   <img align="center" title="Webflow" alt="Webflow" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" />&nbsp;
-  <img align="center" title="MongoDB" alt="MongoDB" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />&nbsp;
-  <img align="center" title="Prisma" alt="Prisma" height="32" src="https://www.svgrepo.com/show/374002/prisma.svg" />&nbsp;&nbsp;
+  <img align="center" title="Prisma" alt="Prisma" height="36" src="https://www.svgrepo.com/show/374002/prisma.svg" />&nbsp;
+  <img align="center" title="Java" alt="Java" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />&nbsp;
+  <img align="center" title="Spring" alt="Spring" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />&nbsp;&nbsp;
+  <img align="center" title="Next.js" alt="Next.js" height="31" src="https://i.imgur.com/KjkuHJF.png" />&nbsp;
   <img align="center" title="Docker" alt="Docker" height="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />&nbsp;&nbsp;
   <img align="center" title="AWS" alt="AWS" height="35" src="https://i.imgur.com/yBsYobh.png" />&nbsp;&nbsp;
   <img align="center" title="Redis" alt="Redis" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />&nbsp;&nbsp;&nbsp;
   <img align="center" title="NGINX" alt="NGINX" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />&nbsp;&nbsp;&nbsp;
-  <img align="center" title="Material UI" alt="Material UI" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />&nbsp;&nbsp;&nbsp;
-  <img align="center" title="Next.js" alt="Next.js" height="30" src="https://i.imgur.com/KjkuHJF.png" />
+  <img align="center" title="Material UI" alt="Material UI" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />&nbsp;&nbsp;
+  
   
   <br />
   <br />
