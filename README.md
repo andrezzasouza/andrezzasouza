@@ -42,25 +42,25 @@ Currently, I work as a tutor and help students become full stack developers as w
 <h2>🧠 What I use</h2>
 <br />
 <div>
-  <img align="center" title="VS Code" alt="VS Code" height="50" src="./assets/svg/vs-code.svg" />
-  <img align="center" title="Bash" alt="Bash" height="50" src="./assets/svg/bash.svg" />
-  <img align="center" title="HTML" alt="HTML" height="50" src="./assets/svg/html.svg" />
-  <img align="center" title="CSS" alt="CSS" height="50" src="./assets/svg/css.svg" />
-  <img align="center" title="Javascript" alt="Javascript" height="50" src="./assets/svg/javascript.svg" />
-  <img align="center" title="Typescript" alt="Typescript" height="50" src="./assets/svg/typescript.svg" />
-  <img align="center" title="GitHub" alt="GitHub" height="50" src="./assets/svg/github.svg" />
-  <img align="center" title="Git" alt="Git" height="50" src="./assets/svg/git.svg" />
-  <img align="center" title="npm" alt="npm" height="50" src="./assets/svg/npm.svg" />
-  <img align="center" title="Figma" alt="Figma" height="50" src="./assets/svg/figma.svg" />
-  <img align="center" title="React" alt="React" height="50" src="./assets/svg/react.svg" />
-  <img align="center" title="Styled Components" alt="Styled Components" height="50" src="./assets/svg/styled-components.svg" />
-  <img align="center" title="TailwindCSS" alt="TailwindCSS" height="50" src="./assets/svg/tailwind-css.svg" />
-  <img align="center" title="Node.js" alt="Node.js" height="50" src="./assets/svg/node.svg" />
-  <img align="center" title="Express.js" alt="Express.js" height="50" src="./assets/svg/express.svg" />
-  <img align="center" title="PostgreSQL" alt="PostgreSQL" height="50" src="./assets/svg/postgresql.svg" />
-   <img align="center" title="MongoDB" alt="MongoDB" height="50" src="./assets/svg/mongo.svg" />
-  <img align="center" title="Cypress" alt="Cypress" height="50" src="./assets/svg/cypress.svg" />
-  <img align="center" title="Jest" alt="Jest" height="50" src="./assets/svg/jest.svg" />
+  <img align="center" title="VS Code" alt="VS Code" height="60" src="./assets/svg/vs-code.svg" />
+  <img align="center" title="Bash" alt="Bash" height="60" src="./assets/svg/bash.svg" />
+  <img align="center" title="HTML" alt="HTML" height="60" src="./assets/svg/html.svg" />
+  <img align="center" title="CSS" alt="CSS" height="60" src="./assets/svg/css.svg" />
+  <img align="center" title="Javascript" alt="Javascript" height="60" src="./assets/svg/javascript.svg" />
+  <img align="center" title="Typescript" alt="Typescript" height="60" src="./assets/svg/typescript.svg" />
+  <img align="center" title="GitHub" alt="GitHub" height="60" src="./assets/svg/github.svg" />
+  <img align="center" title="Git" alt="Git" height="60" src="./assets/svg/git.svg" />
+  <img align="center" title="npm" alt="npm" height="60" src="./assets/svg/npm.svg" />
+  <img align="center" title="Figma" alt="Figma" height="60" src="./assets/svg/figma.svg" />
+  <img align="center" title="React" alt="React" height="60" src="./assets/svg/react.svg" />
+  <img align="center" title="Styled Components" alt="Styled Components" height="60" src="./assets/svg/styled-components.svg" />
+  <img align="center" title="TailwindCSS" alt="TailwindCSS" height="60" src="./assets/svg/tailwind-css.svg" />
+  <img align="center" title="Node.js" alt="Node.js" height="60" src="./assets/svg/node.svg" />
+  <img align="center" title="Express.js" alt="Express.js" height="60" src="./assets/svg/express.svg" />
+  <img align="center" title="PostgreSQL" alt="PostgreSQL" height="60" src="./assets/svg/postgresql.svg" />
+   <img align="center" title="MongoDB" alt="MongoDB" height="60" src="./assets/svg/mongo.svg" />
+  <img align="center" title="Cypress" alt="Cypress" height="60" src="./assets/svg/cypress.svg" />
+  <img align="center" title="Jest" alt="Jest" height="60" src="./assets/svg/jest.svg" />
 
   <br />
   <br />
@@ -69,16 +69,17 @@ Currently, I work as a tutor and help students become full stack developers as w
 <h2>📚 What I'm learning</h2>
 <br />
 <div>
-  <img align="center" title="Prisma" alt="Prisma" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Prisma.svg" />&nbsp;
-  <img align="center" title="Java" alt="Java" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Java-Dark.svg" />&nbsp;
-  <img align="center" title="Spring" alt="Spring" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Spring-Dark.svg" />&nbsp;
-  <img align="center" title="Next.js" alt="Next.js" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/NextJS-Dark.svg" />&nbsp;
-  <img align="center" title="Docker" alt="Docker" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Docker.svg" />&nbsp;
-  <img align="center" title="AWS" alt="AWS" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/AWS-Dark.svg" />&nbsp;
-  <img align="center" title="Github Actions" alt="Github Actions" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/GithubActions-Dark.svg" />&nbsp;
-  <img align="center" title="Redis" alt="Redis" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Redis-Dark.svg" />&nbsp;
-  <img align="center" title="NGINX" alt="NGINX" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Nginx.svg" />&nbsp;
-  <img align="center" title="Material UI" alt="Material UI" height="50" src="./assets/svg/mui.svg" />&nbsp;
+  <img align="center" title="Prisma" alt="Prisma" height="60" src="./assets/svg/prisma.svg" />
+  <img align="center" title="Java" alt="Java" height="60" src="./assets/svg/java.svg" />
+  <img align="center" title="Spring" alt="Spring" height="60" src="./assets/svg/spring.svg" />
+  <img align="center" title="Next.js" alt="Next.js" height="60" src="./assets/svg/next.svg" />
+  <img align="center" title="Docker" alt="Docker" height="60" src="./assets/svg/docker.svg" />
+  <img align="center" title="AWS" alt="AWS" height="60" src="./assets/svg/aws.svg" />
+  <img align="center" title="Github Actions" alt="Github Actions" height="60" src="./assets/svg/github-actions.svg" />
+  <img align="center" title="Redis" alt="Redis" height="60" src="./assets/svg/redis.svg" />
+  <img align="center" title="NGINX" alt="NGINX" height="60" src="./assets/svg/nginx.svg" />
+  <img align="center" title="Material UI" alt="Material UI" height="60" src="./assets/svg/mui.svg" />
+  <img align="center" title="Puppeteer" alt="Puppeteer" height="60" src="./assets/svg/puppeteer.svg" />
   
   
   <br />
@@ -88,9 +89,9 @@ Currently, I work as a tutor and help students become full stack developers as w
 <h2>👀 Next technologies</h2>
 <br />
 <div>
-  <img align="center" title="Bootstrap" alt="Bootstrap" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Bootstrap.svg" />&nbsp;
-  <img align="center" title="Sass" alt="Sass" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Sass.svg" />&nbsp;
-  <img align="center" title="Electron" alt="Electron" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Electron.svg" />&nbsp;
+  <img align="center" title="Bootstrap" alt="Bootstrap" height="60" src="./assets/svg/bootstrap.svg" />
+  <img align="center" title="Sass" alt="Sass" height="60" src="./assets/svg/sass.svg" />
+  <img align="center" title="Electron" alt="Electron" height="60" src="./assets/svg/electron.svg" />
 
   <br />
   <br />
