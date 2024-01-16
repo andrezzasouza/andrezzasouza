@@ -72,7 +72,9 @@ Currently, I work as a tutor and help students become full stack developers as w
   <img align="center" title="Prisma" alt="Prisma" height="60" src="./assets/svg/prisma.svg" />
   <img align="center" title="Java" alt="Java" height="60" src="./assets/svg/java.svg" />
   <img align="center" title="Spring" alt="Spring" height="60" src="./assets/svg/spring.svg" />
+  <img align="center" title="Apps Script" alt="Apps Script" height="60" src="./assets/svg/appsscript.svg" />
   <img align="center" title="Next.js" alt="Next.js" height="60" src="./assets/svg/next.svg" />
+  <img align="center" title="Nest.js" alt="Nest.js" height="60" src="./assets/svg/nestjs.svg" />
   <img align="center" title="Docker" alt="Docker" height="60" src="./assets/svg/docker.svg" />
   <img align="center" title="AWS" alt="AWS" height="60" src="./assets/svg/aws.svg" />
   <img align="center" title="Github Actions" alt="Github Actions" height="60" src="./assets/svg/github-actions.svg" />
@@ -110,3 +112,5 @@ At the moment, I'm concentrating on deepening and expanding my knowledge of tech
     <img height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=andrezzasouza&theme=panda&langs_count=5" align="center" />
   </a>
 </div>
+
+[//]: # (Icons from https://github.com/tandpfun/skill-icons)
