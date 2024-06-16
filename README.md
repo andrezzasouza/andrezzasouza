@@ -191,12 +191,12 @@ Currently, I'm studying Java and looking for a new job as a software developer. 
         <img align="center" title="Redis" alt="Redis" height="50" src="./assets/svg/redis.svg" />
         &nbsp&nbspRedis
       </td>
+    </tr>
+    <tr>
       <td>
         <img align="center" title="NGINX" alt="NGINX" height="50" src="./assets/svg/nginx.svg" />
         &nbsp&nbspNGINX
       </td>
-    </tr>
-    <tr>
       <td>
         <img align="center" title="Docker" alt="Docker" height="50" src="./assets/svg/docker.svg" />
         &nbsp&nbspDocker
