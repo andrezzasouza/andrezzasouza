@@ -1,7 +1,11 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/gif/profile_dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./assets/gif/profile_light.gif">
-  <img src="./assets/gif/profile_dark.gif" alt="Smiling black girl with pink hair and a lylac blouse using a pink laptop. There is an orange cat sleeping to her left and a steaming green mug to her right. Above her there is a shelf with books and a box, a clock and a speech baloon." align="right" />
+  <img 
+    src="./assets/gif/profile_dark.gif" 
+    alt="In the foreground, there is a smiling black girl with pink hair and a lylac blouse using a pink laptop. There is an orange cat sleeping to her left and a steaming green mug to her right. Above her there is a shelf with books and a box, a clock and two speech balloons. There's nothing written on the balloons, only an animated bar graph and 2 horizontal lines." 
+    align="right" 
+  />
 </picture>
 
 <h1> 🌎 Hello world!</h1>
@@ -12,12 +16,15 @@ I graduated in International Relations mostly because of my love of foreign lang
 
 Coding to me feels like having play-doh in my hands that I can mold however I want. It's an amazingly creative feeling and the sky is not the limit! I love it!
 
-Currently, I work as a tutor and help students become full stack developers as well.
+I've worked as a Full Stack Development tutor for 2 years. In that position, I helped students become full stack developers like me. It was one of the best experiences I've ever had and one of the coolest things I've ever done!
+
+Currently, I'm studying Java and looking for a new job as a software developer. Metaphorically, I've shown people how to make play-doh figures, now I want to work on my own figures. If you know of any interesting job openings, please, <a href="#talk">let me know</a>!
+
 <br />
 
 <h3>Fun facts</h3>
 <ul>
-  <li>I speak 3 human languages and 1 programming language. Languages help me connect with new people (and machines). They also allow me to learn new things, and see the world and other cultures through brand new eyes.</li>
+  <li>I speak 3 human languages and 2 programming language. Languages help me connect with new people (and machines). They also allow me to learn new things, and see the world and other cultures through brand new eyes.</li>
   <li>I first meddled with code when I was 11 and wanted to improve the template of my blog.</li>
   <li>I'm a cat person and I'll always smile if your cat appears in a Zoom meeting!</li>
 </ul>
@@ -29,7 +36,7 @@ Currently, I work as a tutor and help students become full stack developers as w
   <a href="https://www.linkedin.com/in/souza-andrezza/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:andrezzasouza@id.uff.br">
+  <a href="mailto:72293497+andrezzasouza@users.noreply.github.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://stackoverflow.com/users/17289778/andrezza-souza">
@@ -41,68 +48,201 @@ Currently, I work as a tutor and help students become full stack developers as w
 
 <h2>🧠 What I use</h2>
 <br />
-<div>
-  <img align="center" title="VS Code" alt="VS Code" height="60" src="./assets/svg/vs-code.svg" />
-  <img align="center" title="Bash" alt="Bash" height="60" src="./assets/svg/bash.svg" />
-  <img align="center" title="HTML" alt="HTML" height="60" src="./assets/svg/html.svg" />
-  <img align="center" title="CSS" alt="CSS" height="60" src="./assets/svg/css.svg" />
-  <img align="center" title="Javascript" alt="Javascript" height="60" src="./assets/svg/javascript.svg" />
-  <img align="center" title="Typescript" alt="Typescript" height="60" src="./assets/svg/typescript.svg" />
-  <img align="center" title="GitHub" alt="GitHub" height="60" src="./assets/svg/github.svg" />
-  <img align="center" title="Git" alt="Git" height="60" src="./assets/svg/git.svg" />
-  <img align="center" title="npm" alt="npm" height="60" src="./assets/svg/npm.svg" />
-  <img align="center" title="Figma" alt="Figma" height="60" src="./assets/svg/figma.svg" />
-  <img align="center" title="React" alt="React" height="60" src="./assets/svg/react.svg" />
-  <img align="center" title="Styled Components" alt="Styled Components" height="60" src="./assets/svg/styled-components.svg" />
-  <img align="center" title="TailwindCSS" alt="TailwindCSS" height="60" src="./assets/svg/tailwind-css.svg" />
-  <img align="center" title="Node.js" alt="Node.js" height="60" src="./assets/svg/node.svg" />
-  <img align="center" title="Express.js" alt="Express.js" height="60" src="./assets/svg/express.svg" />
-  <img align="center" title="PostgreSQL" alt="PostgreSQL" height="60" src="./assets/svg/postgresql.svg" />
-   <img align="center" title="MongoDB" alt="MongoDB" height="60" src="./assets/svg/mongo.svg" />
-  <img align="center" title="Cypress" alt="Cypress" height="60" src="./assets/svg/cypress.svg" />
-  <img align="center" title="Jest" alt="Jest" height="60" src="./assets/svg/jest.svg" />
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <img align="center" title="Javascript" alt="Javascript" height="50" src="./assets/svg/javascript.svg" />
+        &nbspJavaScript
+      </td>
+      <td>
+        <img align="center" title="Typescript" alt="Typescript" height="50" src="./assets/svg/typescript.svg" />
+        &nbspTypeScript
+      </td>
+      <td>
+        <img align="center" title="Node.js" alt="Node.js" height="50" src="./assets/svg/node.svg" />
+        &nbspNode.js
+      </td>
+      <td>
+        <img align="center" title="npm" alt="npm" height="50" src="./assets/svg/npm.svg" />
+        &nbspnpm
+      </td>
+      <td>
+        <img align="center" title="Express.js" alt="Express.js" height="50" src="./assets/svg/express.svg" />
+        &nbspExpress
+      </td>
+      <td>
+        <img align="center" title="Java" alt="Java" height="50" src="./assets/svg/java.svg" />
+        &nbspJava
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="center" title="HTML" alt="HTML" height="50" src="./assets/svg/html.svg" />
+        &nbspHTML
+      </td>
+      <td>
+        <img align="center" title="CSS" alt="CSS" height="50" src="./assets/svg/css.svg" />
+        &nbspCSS
+      </td>
+      <td>
+        <img align="center" title="Bootstrap" alt="Bootstrap" height="50" src="./assets/svg/bootstrap.svg" />
+        &nbspBootstrap
+      </td>
+      <td>
+        <img align="center" title="TailwindCSS" alt="TailwindCSS" height="50" src="./assets/svg/tailwind-css.svg" />
+        &nbspTailwindCSS
+      </td>
+      <td>
+        <img align="center" title="React" alt="React" height="50" src="./assets/svg/react.svg" />
+        &nbspReact
+      </td>
+      <td>
+        <img align="center" title="Styled Components" alt="Styled Components" height="50" src="./assets/svg/styled-components.svg" />
+        &nbspStyled Components
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="center" title="PostgreSQL" alt="PostgreSQL" height="50" src="./assets/svg/postgresql.svg" />
+        &nbspPostgreSQL
+      </td>
+      <td>
+        <img align="center" title="MongoDB" alt="MongoDB" height="50" src="./assets/svg/mongo.svg" />
+        &nbspMongoDB
+      </td>
+      <td>
+        <img align="center" title="Prisma" alt="Prisma" height="50" src="./assets/svg/prisma.svg" />
+        &nbspPrisma
+      </td>
+      <td>
+        <img align="center" title="Git" alt="Git" height="50" src="./assets/svg/git.svg" />
+        &nbspGit
+      </td>
+      <td>
+        <img align="center" title="Jest" alt="Jest" height="50" src="./assets/svg/jest.svg" />
+        &nbspJest
+      </td>
+      <td>
+        <img align="center" title="Cypress" alt="Cypress" height="50" src="./assets/svg/cypress.svg" />
+        &nbspCypress
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="center" title="VS Code" alt="VS Code" height="50" src="./assets/svg/vs-code.svg" />
+        &nbspVS Code
+      </td>
+      <td>
+        <img align="center" title="Bash" alt="Bash" height="50" src="./assets/svg/bash.svg" />
+        &nbspBash
+      </td>
+      <td>
+        <img align="center" title="GitHub" alt="GitHub" height="50" src="./assets/svg/github.svg" />
+        &nbspGithub
+      </td>
+      <td>
+        <img align="center" title="Figma" alt="Figma" height="50" src="./assets/svg/figma.svg" />
+        &nbspFigma
+      </td>
+      <td>
+        <img align="center" title="Postman" alt="Postman" height="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Postman.svg" />
+        &nbspPostman
+      </td>
+      <td>
+        <img align="center" title="Vercel" alt="Vercel" height="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Vercel-Dark.svg" />
+        &nbspVercel
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-  <br />
-  <br />
-</div>
+<br />
+<br />
 
 <h2>📚 What I'm learning</h2>
 <br />
-<div>
-  <img align="center" title="Prisma" alt="Prisma" height="60" src="./assets/svg/prisma.svg" />
-  <img align="center" title="Java" alt="Java" height="60" src="./assets/svg/java.svg" />
-  <img align="center" title="Spring" alt="Spring" height="60" src="./assets/svg/spring.svg" />
-  <img align="center" title="Apps Script" alt="Apps Script" height="60" src="./assets/svg/appsscript.svg" />
-  <img align="center" title="Next.js" alt="Next.js" height="60" src="./assets/svg/next.svg" />
-  <img align="center" title="Nest.js" alt="Nest.js" height="60" src="./assets/svg/nestjs.svg" />
-  <img align="center" title="Docker" alt="Docker" height="60" src="./assets/svg/docker.svg" />
-  <img align="center" title="AWS" alt="AWS" height="60" src="./assets/svg/aws.svg" />
-  <img align="center" title="Github Actions" alt="Github Actions" height="60" src="./assets/svg/github-actions.svg" />
-  <img align="center" title="Redis" alt="Redis" height="60" src="./assets/svg/redis.svg" />
-  <img align="center" title="NGINX" alt="NGINX" height="60" src="./assets/svg/nginx.svg" />
-  <img align="center" title="Material UI" alt="Material UI" height="60" src="./assets/svg/mui.svg" />
-  <img align="center" title="Puppeteer" alt="Puppeteer" height="60" src="./assets/svg/puppeteer.svg" />
-  
-  
-  <br />
-  <br />
-</div>
+<table style="width:100%">
+  <tbody>
+    <tr>
+      <td>
+        <img align="center" title="Spring" alt="Spring" height="50" src="./assets/svg/spring.svg" />
+        &nbspSpring
+      </td>
+      <td>
+        <img align="center" title="Next.js" alt="Next.js" height="50" src="./assets/svg/next.svg" />
+        &nbspNext.js
+      </td>
+      <td>
+        <img align="center" title="Apps Script" alt="Apps Script" height="50" src="./assets/svg/appsscript.svg" />
+        &nbspApps Script
+      </td>
+      <td>
+        <img align="center" title="Puppeteer" alt="Puppeteer" height="50" src="./assets/svg/puppeteer.svg" />
+        &nbspPuppeteer
+      </td>
+      <td>
+        <img align="center" title="Redis" alt="Redis" height="50" src="./assets/svg/redis.svg" />
+        &nbspRedis
+      </td>
+      <td>
+        <img align="center" title="NGINX" alt="NGINX" height="50" src="./assets/svg/nginx.svg" />
+        &nbspNGINX
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="center" title="Docker" alt="Docker" height="50" src="./assets/svg/docker.svg" />
+        &nbspDocker
+      </td>
+      <td>
+        <img align="center" title="AWS" alt="AWS" height="50" src="./assets/svg/aws.svg" />
+        &nbspAWS
+      </td>
+      <td>
+        <img align="center" title="Github Actions" alt="Github Actions" height="50" src="./assets/svg/github-actions.svg" />
+        &nbspGitHub Actions
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br />
+<br />
 
 <h2>👀 Next technologies</h2>
 <br />
-<div>
-  <img align="center" title="Bootstrap" alt="Bootstrap" height="60" src="./assets/svg/bootstrap.svg" />
-  <img align="center" title="Sass" alt="Sass" height="60" src="./assets/svg/sass.svg" />
-  <img align="center" title="Electron" alt="Electron" height="60" src="./assets/svg/electron.svg" />
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <img align="center" title="Nest.js" alt="Nest.js" height="50" src="./assets/svg/nestjs.svg" />
+        &nbspNest.js
+      </td>
+      <td>
+        <img align="center" title="Go Lang" alt="Go Lang" height="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/GoLang.svg" />
+        &nbspGo Lang
+      </td>
+      <td>
+        <img align="center" title="Electron" alt="Electron" height="50" src="./assets/svg/electron.svg" />
+        &nbspElectron
+      </td>
+      <td>
+        <img align="center" title="Sass" alt="Sass" height="50" src="./assets/svg/sass.svg" />
+        &nbspSass
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-  <br />
-  <br />
-</div>
+<br />
 <br />
 
 <h2>💻 Currently working on</h2>
 
 At the moment, I'm concentrating on deepening and expanding my knowledge of technologies related to programming. To know more, you can <a href="#talk">talk to me</a> or <a href="https://github.com/andrezzasouza?tab=repositories">take a look at my repositories</a>!
+
+<br />
 
 <div>
   <a href="https://github.com/andrezzasouza#user-activity-overview" style="text-decoration: none !important; color: transparent; ">
