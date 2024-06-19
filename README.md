@@ -148,15 +148,15 @@ Currently, I'm studying Java and looking for a new job as a software developer. 
         &nbsp&nbspFigma
       </td>
       <td>
-        <img align="center" title="Postman" alt="Postman" height="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Postman.svg" />
+        <img align="center" title="Postman" alt="Postman" height="50" src="./assets/svg/postman.svg" />
         &nbsp&nbspPostman
       </td>
       <td>
-        <img align="center" title="Vercel" alt="Vercel" height="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Vercel-Dark.svg" />
+        <img align="center" title="Vercel" alt="Vercel" height="50" src="./assets/svg/vercel.svg" />
         &nbsp&nbspVercel
       </td>
       <td>
-        <img align="center" title="Linux" alt="Linux" height="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg" />
+        <img align="center" title="Linux" alt="Linux" height="50" src="./assets/svg/linux.svg" />
         &nbsp&nbspLinux
       </td>
     </tr>
@@ -226,7 +226,7 @@ Currently, I'm studying Java and looking for a new job as a software developer. 
         &nbsp&nbspNest.js
       </td>
       <td>
-        <img align="center" title="Go Lang" alt="Go Lang" height="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/GoLang.svg" />
+        <img align="center" title="Go Lang" alt="Go Lang" height="50" src="./assets/svg/go.svg" />
         &nbsp&nbspGo Lang
       </td>
       <td>
@@ -257,6 +257,7 @@ At the moment, I'm concentrating on deepening and expanding my knowledge of tech
   <a href="https://wakatime.com/@andrezzasouza" style="text-decoration: none !important;">
     <img height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=andrezzasouza&theme=panda&langs_count=5" align="center" />
   </a>
+  <br />
 </div>
 
 [//]: # (Icons from https://github.com/tandpfun/skill-icons)
