@@ -176,6 +176,10 @@ Currently, I'm studying Java and looking for a new job as a software developer. 
         &nbsp&nbspSpring
       </td>
       <td>
+        <img align="center" title="Go Lang" alt="Go Lang" height="50" src="./assets/svg/go.svg" />
+        &nbsp&nbspGo Lang
+      </td>
+      <td>
         <img align="center" title="Next.js" alt="Next.js" height="50" src="./assets/svg/next.svg" />
         &nbsp&nbspNext.js
       </td>
@@ -226,10 +230,6 @@ Currently, I'm studying Java and looking for a new job as a software developer. 
         &nbsp&nbspNest.js
       </td>
       <td>
-        <img align="center" title="Go Lang" alt="Go Lang" height="50" src="./assets/svg/go.svg" />
-        &nbsp&nbspGo Lang
-      </td>
-      <td>
         <img align="center" title="Electron" alt="Electron" height="50" src="./assets/svg/electron.svg" />
         &nbsp&nbspElectron
       </td>
@@ -260,4 +260,4 @@ At the moment, I'm concentrating on deepening and expanding my knowledge of tech
   <br />
 </div>
 
-[//]: # (Icons from https://github.com/tandpfun/skill-icons)
+[//]: # "Icons from https://github.com/tandpfun/skill-icons"
