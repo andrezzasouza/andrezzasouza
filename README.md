@@ -12,7 +12,7 @@
 
 My name is **Andrezza** and I'm a Full Stack Developer!
 
-I graduated in International Relations mostly because of my love of foreign languages and my desire to troubleshoot conflicts to make the world a better place. Now, I know new kinds of languages – programming languages – and troubleshoot other types of conflicts – version conflicts.
+I graduated in International Relations mostly because of my love of foreign languages and my desire to troubleshoot conflicts to make the world a better place. Now, I know new kinds of languages — programming languages — and troubleshoot other types of conflicts — version conflicts.
 
 Coding to me feels like having play-doh in my hands that I can mold however I want. It's an amazingly creative feeling and the sky is not the limit! I love it!
 
@@ -53,111 +53,111 @@ Currently, I'm studying Java and looking for a new job as a software developer. 
     <tr>
       <td>
         <img align="center" title="Javascript" alt="Javascript" height="50" src="./assets/svg/javascript.svg" />
-        &nbsp&nbspJavaScript
+        &nbsp JavaScript
       </td>
       <td>
         <img align="center" title="Typescript" alt="Typescript" height="50" src="./assets/svg/typescript.svg" />
-        &nbsp&nbspTypeScript
+        &nbsp TypeScript
       </td>
       <td>
         <img align="center" title="Node.js" alt="Node.js" height="50" src="./assets/svg/node.svg" />
-        &nbsp&nbspNode.js
+        &nbsp Node.js
       </td>
       <td>
         <img align="center" title="npm" alt="npm" height="50" src="./assets/svg/npm.svg" />
-        &nbsp&nbspnpm
+        &nbsp npm
       </td>
       <td>
         <img align="center" title="Express.js" alt="Express.js" height="50" src="./assets/svg/express.svg" />
-        &nbsp&nbspExpress
+        &nbsp Express
       </td>
     </tr>
     <tr>
       <td>
         <img align="center" title="Java" alt="Java" height="50" src="./assets/svg/java.svg" />
-        &nbsp&nbspJava
+        &nbsp Java
       </td>
       <td>
         <img align="center" title="HTML" alt="HTML" height="50" src="./assets/svg/html.svg" />
-        &nbsp&nbspHTML
+        &nbsp HTML
       </td>
       <td>
         <img align="center" title="CSS" alt="CSS" height="50" src="./assets/svg/css.svg" />
-        &nbsp&nbspCSS
+        &nbsp CSS
       </td>
       <td>
         <img align="center" title="Bootstrap" alt="Bootstrap" height="50" src="./assets/svg/bootstrap.svg" />
-        &nbsp&nbspBootstrap
+        &nbsp Bootstrap
       </td>
       <td>
         <img align="center" title="TailwindCSS" alt="TailwindCSS" height="50" src="./assets/svg/tailwind-css.svg" />
-        &nbsp&nbspTailwindCSS
+        &nbsp TailwindCSS
       </td>
     </tr>
     <tr>
       <td>
         <img align="center" title="React" alt="React" height="50" src="./assets/svg/react.svg" />
-        &nbsp&nbspReact
+        &nbsp React
       </td>
       <td>
         <img align="center" title="Styled Components" alt="Styled Components" height="50" src="./assets/svg/styled-components.svg" />
-        &nbsp&nbspStyled Components
+        &nbsp Styled Components
       </td>
       <td>
         <img align="center" title="PostgreSQL" alt="PostgreSQL" height="50" src="./assets/svg/postgresql.svg" />
-        &nbsp&nbspPostgreSQL
+        &nbsp PostgreSQL
       </td>
       <td>
         <img align="center" title="MongoDB" alt="MongoDB" height="50" src="./assets/svg/mongo.svg" />
-        &nbsp&nbspMongoDB
+        &nbsp MongoDB
       </td>
       <td>
         <img align="center" title="Prisma" alt="Prisma" height="50" src="./assets/svg/prisma.svg" />
-        &nbsp&nbspPrisma
+        &nbsp Prisma
       </td>
     </tr>
     <tr>
       <td>
         <img align="center" title="Git" alt="Git" height="50" src="./assets/svg/git.svg" />
-        &nbsp&nbspGit
+        &nbsp Git
       </td>
       <td>
         <img align="center" title="Jest" alt="Jest" height="50" src="./assets/svg/jest.svg" />
-        &nbsp&nbspJest
+        &nbsp Jest
       </td>
       <td>
         <img align="center" title="Cypress" alt="Cypress" height="50" src="./assets/svg/cypress.svg" />
-        &nbsp&nbspCypress
+        &nbsp Cypress
       </td>
       <td>
         <img align="center" title="VS Code" alt="VS Code" height="50" src="./assets/svg/vs-code.svg" />
-        &nbsp&nbspVS Code
+        &nbsp VS Code
       </td>
       <td>
         <img align="center" title="Bash" alt="Bash" height="50" src="./assets/svg/bash.svg" />
-        &nbsp&nbspBash
+        &nbsp Bash
       </td>
     </tr>
     <tr>
       <td>
         <img align="center" title="GitHub" alt="GitHub" height="50" src="./assets/svg/github.svg" />
-        &nbsp&nbspGithub
+        &nbsp Github
       </td>
       <td>
         <img align="center" title="Figma" alt="Figma" height="50" src="./assets/svg/figma.svg" />
-        &nbsp&nbspFigma
+        &nbsp Figma
       </td>
       <td>
         <img align="center" title="Postman" alt="Postman" height="50" src="./assets/svg/postman.svg" />
-        &nbsp&nbspPostman
+        &nbsp Postman
       </td>
       <td>
         <img align="center" title="Vercel" alt="Vercel" height="50" src="./assets/svg/vercel.svg" />
-        &nbsp&nbspVercel
+        &nbsp Vercel
       </td>
       <td>
         <img align="center" title="Linux" alt="Linux" height="50" src="./assets/svg/linux.svg" />
-        &nbsp&nbspLinux
+        &nbsp Linux
       </td>
     </tr>
   </tbody>
@@ -168,50 +168,50 @@ Currently, I'm studying Java and looking for a new job as a software developer. 
 
 <h2>📚 What I'm learning</h2>
 <br />
-<table style="width:100%">
+<table>
   <tbody>
     <tr>
       <td>
         <img align="center" title="Spring" alt="Spring" height="50" src="./assets/svg/spring.svg" />
-        &nbsp&nbspSpring
+        &nbsp Spring
       </td>
       <td>
         <img align="center" title="Go Lang" alt="Go Lang" height="50" src="./assets/svg/go.svg" />
-        &nbsp&nbspGo Lang
+        &nbsp Go Lang
       </td>
       <td>
         <img align="center" title="Next.js" alt="Next.js" height="50" src="./assets/svg/next.svg" />
-        &nbsp&nbspNext.js
-      </td>
-      <td>
-        <img align="center" title="Apps Script" alt="Apps Script" height="50" src="./assets/svg/appsscript.svg" />
-        &nbsp&nbspApps Script
+        &nbsp Next.js
       </td>
       <td>
         <img align="center" title="Puppeteer" alt="Puppeteer" height="50" src="./assets/svg/puppeteer.svg" />
-        &nbsp&nbspPuppeteer
+        &nbsp Puppeteer
       </td>
       <td>
-        <img align="center" title="Redis" alt="Redis" height="50" src="./assets/svg/redis.svg" />
-        &nbsp&nbspRedis
+        <img align="center" title="Apps Script" alt="Apps Script" height="50" src="./assets/svg/appsscript.svg" />
+        &nbsp Apps Script
       </td>
     </tr>
     <tr>
       <td>
+        <img align="center" title="Redis" alt="Redis" height="50" src="./assets/svg/redis.svg" />
+        &nbsp Redis
+      </td>
+      <td>
         <img align="center" title="NGINX" alt="NGINX" height="50" src="./assets/svg/nginx.svg" />
-        &nbsp&nbspNGINX
+        &nbsp NGINX
       </td>
       <td>
         <img align="center" title="Docker" alt="Docker" height="50" src="./assets/svg/docker.svg" />
-        &nbsp&nbspDocker
+        &nbsp Docker
       </td>
       <td>
         <img align="center" title="AWS" alt="AWS" height="50" src="./assets/svg/aws.svg" />
-        &nbsp&nbspAWS
+        &nbsp AWS
       </td>
       <td>
         <img align="center" title="Github Actions" alt="Github Actions" height="50" src="./assets/svg/github-actions.svg" />
-        &nbsp&nbspGitHub Actions
+        &nbsp GitHub Actions
       </td>
     </tr>
   </tbody>
@@ -227,15 +227,15 @@ Currently, I'm studying Java and looking for a new job as a software developer. 
     <tr>
       <td>
         <img align="center" title="Nest.js" alt="Nest.js" height="50" src="./assets/svg/nestjs.svg" />
-        &nbsp&nbspNest.js
+        &nbsp Nest.js
       </td>
       <td>
         <img align="center" title="Electron" alt="Electron" height="50" src="./assets/svg/electron.svg" />
-        &nbsp&nbspElectron
+        &nbsp Electron
       </td>
       <td>
         <img align="center" title="Sass" alt="Sass" height="50" src="./assets/svg/sass.svg" />
-        &nbsp&nbspSass
+        &nbsp Sass
       </td>
     </tr>
   </tbody>
