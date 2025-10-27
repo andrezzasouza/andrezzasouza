@@ -18,7 +18,7 @@ Coding to me feels like having play-doh in my hands that I can mold however I wa
 
 I've worked as a Full Stack Development tutor for 2 years. In that position, I helped students become full stack developers like me. It was one of the best experiences I've ever had and one of the coolest things I've ever done!
 
-Currently, I'm studying Java and looking for a new job as a software developer. Metaphorically, I've shown people how to make play-doh figures, now I want to work on my own figures. If you know of any interesting job openings, please, <a href="#talk">let me know</a>!
+Metaphorically, I've taught people how to make play-doh figures, now I want to work on my own figures. If you know of any interesting job openings, please, <a href="#talk">let me know</a>!
 
 <br />
 
@@ -74,8 +74,8 @@ Currently, I'm studying Java and looking for a new job as a software developer. 
     </tr>
     <tr>
       <td>
-        <img align="center" title="Java" alt="Java" height="50" src="./assets/svg/java.svg" />
-        &nbsp Java
+        <img align="center" title="React" alt="React" height="50" src="./assets/svg/react.svg" />
+        &nbsp React
       </td>
       <td>
         <img align="center" title="HTML" alt="HTML" height="50" src="./assets/svg/html.svg" />
@@ -96,8 +96,8 @@ Currently, I'm studying Java and looking for a new job as a software developer. 
     </tr>
     <tr>
       <td>
-        <img align="center" title="React" alt="React" height="50" src="./assets/svg/react.svg" />
-        &nbsp React
+        <img align="center" title="Java" alt="Java" height="50" src="./assets/svg/java.svg" />
+        &nbsp Java
       </td>
       <td>
         <img align="center" title="Styled Components" alt="Styled Components" height="50" src="./assets/svg/styled-components.svg" />
@@ -160,6 +160,7 @@ Currently, I'm studying Java and looking for a new job as a software developer. 
         &nbsp Linux
       </td>
     </tr>
+
   </tbody>
 </table>
 
@@ -230,12 +231,30 @@ Currently, I'm studying Java and looking for a new job as a software developer. 
         &nbsp Nest.js
       </td>
       <td>
-        <img align="center" title="Electron" alt="Electron" height="50" src="./assets/svg/electron.svg" />
-        &nbsp Electron
+        <img align="center" title="GraphQL" alt="GraphQL" height="50" src="./assets/svg/graphql.svg" />
+        &nbsp GraphQL
       </td>
       <td>
-        <img align="center" title="Sass" alt="Sass" height="50" src="./assets/svg/sass.svg" />
-        &nbsp Sass
+        <img align="center" title="Kubernetes" alt="Kubernetes" height="50" src="./assets/svg/kubernetes.svg" />
+        &nbsp Kubernetes
+      </td>
+      <td>
+        <img align="center" title="RabbitMQ" alt="RabbitMQ" height="50" src="./assets/svg/rabbitmq.svg" />
+        &nbsp RabbitMQ
+      </td>
+      <td>
+        <img align="center" title="Prometheus" alt="Prometheus" height="50" src="./assets/svg/prometheus.svg" />
+        &nbsp Prometheus
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="center" title="Grafana" alt="Grafana" height="50" src="./assets/svg/grafana.svg" />
+        &nbsp Grafana
+      </td>
+      <td>
+        <img align="center" title="Electron" alt="Electron" height="50" src="./assets/svg/electron.svg" />
+        &nbsp Electron
       </td>
     </tr>
   </tbody>
