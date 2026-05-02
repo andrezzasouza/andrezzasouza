@@ -267,16 +267,5 @@ Metaphorically, I've taught people how to make play-doh figures, now I want to w
 
 At the moment, I'm concentrating on deepening and expanding my knowledge of technologies related to programming. To know more, you can <a href="#talk">talk to me</a> or <a href="https://github.com/andrezzasouza?tab=repositories">take a look at my repositories</a>!
 
-<br />
-
-<div>
-  <a href="https://github.com/andrezzasouza#user-activity-overview" style="text-decoration: none !important; color: transparent; ">
-    <img width="310" height="200" src="https://github-readme-stats.vercel.app/api?username=andrezzasouza&theme=panda&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&custom_title=Github%20Stats" align="center" />
-  </a>
-  <a href="https://wakatime.com/@andrezzasouza" style="text-decoration: none !important;">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=andrezzasouza&theme=panda&langs_count=5" align="center" />
-  </a>
-  <br />
-</div>
 
 [//]: # "Icons from https://github.com/tandpfun/skill-icons"
